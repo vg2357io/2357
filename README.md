@@ -15,7 +15,7 @@ El crecimiento personal más fundamental es el objetivo que persigue cada medio 
 
 > No está permitido bajo ninguna circunstancia revelar los secretos de la biblioteca, aunque sí puedes ayudar a otros a encontrarlos.
 >
-> No está permitido compartir con nadie ninguna captura de pantalla, código, foto ni ningún tipo de reproducción.
+> No está permitido compartir con nadie ninguna captura de pantalla, código, foto ni ningún tipo de reproducción. Todos los derechos reservados.
 >
 > Los portales de acceso que sí puedes compartir son públicos en las redes del Fénix.
 
