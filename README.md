@@ -4,7 +4,7 @@ El coordinador actual de **2357** es el Fénix **Valentí**, *vg2357io* en redes
 
 Es el Fénix de los humanos y su profesión es la de **nominador**.
 
-Este proyecto está programáticamente configurado para legarse al siguiente Fénix humano cuando su actual coordinador llegue a sus últimas ruinas incandescentes, sus últimas cenizas.
+Este proyecto está programáticamente configurado para legarse al siguiente Fénix humano cuando su actual coordinador llegue a sus últimas ruinas incandescentes, sus últimas cenizas. Toda información personal que puedas encontrar aquí tiene el debido consentimiento por escrito.
 
 ## Biblioteca Criptográfica
 
