@@ -53,7 +53,7 @@ Así, **2357** se convierte en el sello del conocimiento velado: el portal de lo
 
 ## En la narrativa contemporánea
 
-Dentro del universo **Mad Fénix**, *2357.io* se presenta como:
+Dentro del universo de **Névoran**, *2357.io* se presenta como:
 
 - **El Archivo Oculto del Fénix Humano** — un lugar digital donde se custodian fragmentos cifrados de sabiduría.
 - **La Cámara de Voces Primordiales** — donde los viajeros, Cronistas y Custodios descifran mensajes que hablan de lealtad, verdad subjetiva, verdades ajenas, verdad ajena normativa y evolución.
@@ -67,4 +67,4 @@ El **2357** une:
 - **La mística del Fénix** — renacimiento, fuego, transformación.
 - **La ética del movimiento** — lealtad, vínculo, crecimiento interior y colectivo.
 
-Se convierte así en **la coordenada de lo invisible**: un sello de identidad, un rito de paso, una firma de autenticidad espiritual dentro de **Mad Fénix**.
+Se convierte así en **la coordenada de lo invisible**: un sello de identidad, un rito de paso, una firma de autenticidad espiritual dentro de **Névoran**.
