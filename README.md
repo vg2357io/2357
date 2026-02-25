@@ -29,7 +29,7 @@ Puedes encontrar los documentos legales ([cookies](https://legal.2357.io/#/cooki
 > “Disfruta cada día en tu camino.”  
 > — *ft. Fénix Humano*
 
-## Significado simbólico dentro del universo Mad Fénix
+## Significado simbólico dentro del universo de Névoran
 
 Los **cuatro primeros números primos** — 2, 3, 5, 7 — representan:
 
