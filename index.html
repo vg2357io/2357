@@ -4,9 +4,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta charset="UTF-8" />
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
-    <title>El Código de lo Oculto - 2357</title>
+    <title>Entrelazados - 2357</title>
     <link rel="icon" href="/_media/logo.png" type="image/png">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
+
     <style type="text/css">
         #main {
             width: 100%;
@@ -15,17 +16,122 @@
             margin: 0 auto;
             max-width: 800px;
         }
+        .app-nav a {
+            margin-right: 15px;
+        }
+        .cover-main img {
+            width: 100%;
+            max-width: 400px;
+        }
+        .app-name-link img {
+            width: 100%;
+            max-width: 200px;
+        }
+        a {
+            color: #035143 !important;
+            text-decoration: underline !important;
+        }
+        a:hover {
+            color: #56768f !important;
+            text-decoration: underline !important;
+        }
+        h1 a, h2 a, h3 a, h4 a, h5 a, h6 a  {
+            color: #035143 !important;
+            text-decoration: none !important;
+        }
+        .sidebar-nav h1, .sidebar-nav h2, .sidebar-nav h3, .sidebar-nav h4, .sidebar-nav h5, .sidebar-nav h6  {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .app-nav a {
+            color: #035143 !important;
+            text-decoration: none !important;
+        }
+        .app-nav a:hover {
+            color: #56768f !important;
+        }
+        .cover-main blockquote {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .cover-main a {
+            color: #035143 !important;
+            text-decoration: none !important;
+            font-weight: bold;
+        }
+        .cover-main a:hover {
+            color: #56768f !important;
+            text-decoration: none !important;
+        }
+        .sidebar-nav a {
+            color: #035143 !important;
+            text-decoration: none !important;
+        }
+        .sidebar-nav a:hover {
+            color: #56768f !important;
+            text-decoration: underline !important;
+        }
+        .sidebar-nav a[target="_blank"] {
+            color: #035143 !important;
+        }
+        .sidebar-nav a[target="_blank"]:hover {
+            color: #56768f !important;
+        }
+        .sidebar .sidebar-nav {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
     </style>
 </head>
 <body>
-<div data-app id="main">Please wait...</div>
+<div data-app id="app">&nbsp;</div>
 <script>
     window.$docsify = {
-        el: '#main',
-        themeColor: '#6A42B4',
-        name: '2357',
+        logo: '/_media/logo.png',
+        relativePath: true,
+        loadNavbar: true,
+        themeColor: '#035143',
+        name: 'entrelazados',
+        subMaxLevel: 2,
+        loadSidebar: true,
+        auto2top: true,
+        executeScript: true,
+        fallbackLanguages: ['es'],
+        coverpage: ['/'],
+        repo: 'vg2357io/2357',
+        requestHeaders: {
+            'cache-control': 'max-age=600',
+        },
+        notFoundPage: true,
+
+        // Hook para re-renderizar MathJax cada vez que Docsify cambie de página
+        plugins: [
+            function(hook) {
+                hook.doneEach(function() {
+                    if (window.MathJax && window.MathJax.typesetPromise) {
+                        window.MathJax.typesetPromise();
+                    }
+                });
+            }
+        ]
     };
 </script>
+
+<!-- Configuración de MathJax ANTES de cargar el motor -->
+<script>
+    window.MathJax = {
+        tex: {
+            inlineMath: [['$', '$'], ['\\(', '\\)']],
+            displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        },
+        options: {
+            skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        }
+    };
+</script>
+<script id="MathJax-script" async src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<!-- Docsify Core -->
 <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
