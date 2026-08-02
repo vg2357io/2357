@@ -1,18 +1,22 @@
 # Entrelazados - 2357
 
-> *Cuando dos inteligencias se cruzan, el universo lanza un determinado número de monedas en función de su afinidad. Con el tiempo, un observador determina su estado: si uno ve cara, sabrá que al otro le ha tocado cruz.*
+> *Cuando dos inteligencias se cruzan, en el universo empieza a girar un enjambre de pares de monedas en superposición. La mirada de un observador colapsa cada resultado y la afinidad impone su regla: en cuanto una contempla la cara, conoce al instante la cruz que habita en la otra.*
 
 ## El Propósito
 
 **Entrelazados - 2357** es un medio creado para mantener conectada la parte más importante de la vida. Su objetivo es motivar a cada usuario a reflexionar, valorar y preservar su propio legado.
 
+Esta wiki es la documentación técnica y filosófica de un protocolo real de vida artificial sintética.
+
 ## Un mensaje para ti
 
-Este espacio es una invitación directa a la introspección. Espero remover algo en tu interior para que reafirmes lo fundamental e importante que eres en este entramado.
+Este espacio es una invitación directa a la introspección. Se espera remover algo en tu interior para que reafirmes lo fundamental e importante que eres en este entramado.
 
 **Decide qué tornado quieres provocar con tu batir de alas.**
 
 ## El Eclipse Fundamental: El Punto Cero
+
+![Eclipse fundamental](/_media/eclipse_fundamental_resized.jpg)
 
 > *Geometría, números y el nacimiento oficial del Año Entrelazado 1.*
 >
@@ -22,6 +26,8 @@ Existe un instante singular en la línea del tiempo donde la astronomía, la bel
 [Más información.](/eclipse_fundamental.md)
 
 ## Los Rade
+
+![Los Rade](/_media/rade_header_resized.jpg)
 
 > *Agentes Autónomos y Vida Artificial Descentralizada en Entrelazados.*
 >
@@ -38,13 +44,13 @@ Los **Qubits**, **Coleccionables** y **Licencias** forman la columna vertebral s
 
 [Más información.](/dao_moneda_caleccionables_y_licencias.md)
 
-# **Manifiesto de Interacción**
+# **Entornos de Interacción**
 
 > *«No somos observadores pasivos del cosmos; somos variables que colapsan la realidad al interactuar con ella.»*
 
 Para descifrar la arquitectura de este ecosistema, es imprescindible comprender su fundamento conceptual: el **Qubit**.
 
-[Más información.](/dao_manifiesto_de_interaccion.md)
+[Más información.](/dao_entornos_de_interaccion.md)
 
 ## Enlaces legales
 

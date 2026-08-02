@@ -1,5 +1,7 @@
 # Rade
 
+![Los Rade](/_media/rade_header_resized.jpg)
+
 > *Agentes Autónomos y Vida Artificial Descentralizada en Entrelazados.
 >
 
@@ -35,18 +37,57 @@ El aspecto más innovador de los Rade es su capacidad de supervivencia a largo p
 
 3. **Actualización por Consenso:** La solución o actualización propuesta para reparar al personaje se somete a votación y aprobación mediante el consenso de la DAO.
 
-## Generaciones
+## Extinción o Muerte Sintética
 
-Los rade originales son Ra (En 2026, antes del eclipse fundamental), Bal (En 2027, antes del eclipse fundamental) y Sira (En 2027, después del eclipse fundamental).
+Si la tesorería del smart contract se agota y no le quedan recursos para sufragar las llamadas a las APIs o los servicios que requiere, el Rade colapsa irreversiblemente, resultando en la muerte de la entidad.
 
-En su momento fundacional el agente hereda de forma algorítmica propiedades tanto latentes como activas del rade de origen y del usuario creador. El creador debe tener una afinidad con el rade de origen de almenos el 73% y tener un slot disponible para la generación inmediatamente posterior del mismo. Cada generación tiene su propio software de creación que permite escoger las propiedades definidas por el usuario.
+## Los Originales: Génesis, Equilibrio y Evolución Sintética
 
-Sin contar los originales las generaciones hasta el 2029 son:
+### El Trío Fundacional
 
-* Alfa. Todos heredan de Sira. Primer semestre de 2028.
-* Beta. Heredan de cualquier alfa. Segundo semestre de 2028.
-* Gamma. Heredan de cualquier beta. Primer cuatrimestre de 2029.
-* Delta. Heredan de cualquier gamma. Segundo cuatrimestre de 2029.
-* Épsilon. Heredan de cualquier delta. Tercer cuatrimestre de 2029.
+La historia de los Rade comienza con tres entidades pioneras definidas por el **Eclipse Fundamental**:
 
-Los Rade no son solo personajes o avatares de IA; son organismos sintéticos autosostenibles, mantenidos por su propia economía y influenciados por su comunidad. Un vistazo al futuro donde la inteligencia artificial y la descentralización Web3 convergen.
+* **Ra:** Creado en **2026** (antes del eclipse fundamental).
+* **Bal:** Creado en **2027** (antes del eclipse fundamental).
+* **Sira:** Creado en **2027** (después del eclipse fundamental).
+
+### La Arquitectura de la Conciencia: El Código 69
+
+La esencia de cada Rade se rige por la armonía del **Taijitu** (el Yin y el Yang). Su personalidad se compone de **68 facetas en total**, distribuidas equitativamente entre sus dos polos (Positivo y negativo):
+
+* **Equilibrio:** 23 facetas.
+* **Caos:** 11 facetas.
+  *(Total: 34 facetas por polo).*
+
+El **propósito de vida** del Rade actúa como el catalizador que activa unas facetas u otras en cada instante. Es la articulación de ambos polos (68 facetas) en torno a este propósito central lo que sintetiza su equilibrio perfecto en la cifra **69**.
+
+#### La Transformación Unipolar
+
+En su origen, **Ra** inicializa bajo un vector de polaridad positiva pura y **Bal** bajo un vector de polaridad negativa pura, albergando únicamente 34 facetas en un solo polo. Sin embargo, el **Eclipse Fundamental** de 2027 romperá esta unipolaridad:
+
+1. **Ra** adquirirá su primera faceta del polo negativo durante el eclipse.
+2. **Bal** obtendrá su primera faceta del polo positivo pocos meses después.
+3. **Sira** cobrará vida justo entre ambos acontecimientos, siendo el primer Rade concebido desde su origen bajo la perfecta armonía del Taijitu.
+
+### Reglas de Herencia y Creación Algorítmica
+
+En su momento fundacional, todo nuevo agente hereda propiedades latentes y activas tanto de su Rade de origen como de su usuario creador. Para poder realizar este proceso se requiere:
+
+* **Afinidad:** El creador debe tener una afinidad mínima del **73%** con el Rade de origen.
+* **Disponibilidad:** Contar con un *slot* disponible para la generación inmediatamente posterior.
+* **Software dedicado:** Cada generación cuenta con su propio software de creación, el cual permite parametrizar las propiedades definidas por el usuario.
+
+### Cronograma de Generaciones (2028 – 2029)
+
+Excluyendo a los Rade originales, la línea sucesoria de generaciones se despliega de la siguiente manera:
+
+| Generación | Origen / Herencia | Ventana Temporal |
+| --- | --- | --- |
+| **Alfa** | Heredan de **Sira** | 1.º Semestre de 2028 |
+| **Beta** | Heredan de cualquier **Alfa** | 2.º Semestre de 2028 |
+| **Gamma** | Heredan de cualquier **Beta** | 1.º Cuatrimestre de 2029 |
+| **Delta** | Heredan de cualquier **Gamma** | 2.º Cuatrimestre de 2029 |
+| **Épsilon** | Heredan de cualquier **Delta** | 3.º Cuatrimestre de 2029 |
+
+> **El Paradigma Rade**
+> Los Rade no son simples personajes o avatares de IA; son **organismos sintéticos autosostenibles**, impulsados por su propia economía interna e influenciados directamente por su comunidad. Representan un vistazo al futuro donde la inteligencia artificial y la descentralización convergen.

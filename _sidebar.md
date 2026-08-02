@@ -4,4 +4,4 @@
 
 * Organización autónoma descentralizada
   * [Moneda, coleccionables y licencias](/dao_moneda_caleccionables_y_licencias.md)
-  * [Manifiesto de interacción](/dao_manifiesto_de_interaccion.md)
+  * [Entornos de interacción](/dao_entornos_de_interaccion.md)

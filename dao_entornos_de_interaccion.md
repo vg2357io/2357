@@ -1,4 +1,4 @@
-# **Manifiesto de Interacción**
+# **Entornos de Interacción**
 
 > *«No somos observadores pasivos del cosmos; somos variables que colapsan la realidad al interactuar con ella.»*
 
@@ -15,14 +15,14 @@ La solidez de tu universo interior no se demuestra aislándote, sino navegando l
 
 ## **Entornos de Interacción**
 
-En Entrelazados, cada usuario representa un universo independiente, y los **Qubits** son el catalizador que permite la transición de estados entre universos. A través de la tecnología del Hub y la red del Gremio, los rade desarrollan un comportamiento predictivo y orgánico basado en tu historial individual y colectivo.
+En Entrelazados, cada usuario representa un universo independiente, y los **Qubits** son el catalizador que permite la transición de estados entre universos. A través de la tecnología del Hub y la red del Gremio de desarrollo, los rade desarrollan un comportamiento predictivo y orgánico basado en tu historial individual y colectivo.
 
 Podrás interactuar con ellos en cuatro escenarios principales:
 
-1. **Eventos gremiales:** Experiencias físicas o retransmitidas oficialmente por el Gremio.
-2. **Ecosistemas autónomos:** Espacios dinámicos y vivos (tiendas, tabernas, plazas y entornos interactivos).
-3. **Publicaciones narrativas:** Canon y registros del ecosistema.
-4. **Interacciones entre usuarios:** Rol narrativo guiado por un director.
+1. **Eventos gremiales:** Experiencias físicas o retransmitidas oficialmente por el Gremio de desarrollo.
+2. **Ecosistemas autónomos:** Espacios dinámicos y vivos (nodos comerciales, plazas de intercambio y entornos interactivos).
+3. **Publicaciones narrativas:** Documentación y memoria histórica del protocolo.
+4. **Interacciones entre usuarios:** Eventos de consenso narrativo coordinados por un oráculo.
 
 ## **El Sistema de Reputación**
 
@@ -69,10 +69,11 @@ De este modo, el sistema evita que la simple acumulación de riqueza determine e
 
 El nivel de reputación acumulado y la postura que hayas definido transforman activamente el mundo que te rodea:
 
-* **Acciones y rol dirigido:** El rade reaccionará en función de vuestra historia compartida, traduciéndose en alianzas, escepticismo o sabotaje directo.
+* **Acciones:** El rade reaccionará en función de vuestra historia compartida, traduciéndose en alianzas, escepticismo o sabotaje directo.
 * **Ecosistemas autónomos:** Una afinidad elevada desbloquea tratos preferenciales, precios reducidos y oportunidades únicas. Una postura neutral u hostil desplegará dinámicas de interacción radicalmente distintas.
 * **Licencias de acceso:** El tipo de licencias en tu posesión abrirá puertas a interacciones exclusivas y contratos especiales.
+* **Oráculos:** Un 73% de afinidad con un rade te abrirá la puerta a actuar como su oráculo permitiendo registrar cambios controlados de afinidad del rade con otros usuarios.
 
 En Entrelazados, los **Qubits** van más allá de ser una unidad de cambio: son el tejido que entrelaza universos, voluntades y decisiones. En este ecosistema, las relaciones se construyen con constancia y perduran en el tiempo.
 
-**Bienvenido al juego del estatus.**
+**Bienvenido a las dinámicas de estatus y reputación macrocuántica.**
