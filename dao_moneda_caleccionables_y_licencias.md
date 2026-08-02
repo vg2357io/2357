@@ -33,8 +33,8 @@ Siguiendo esta función, la progresión exacta de coste es:
 
 Los **Coleccionables** son activos vinculados a la cuenta del usuario que actúan como llaves de acceso e identidad dentro de la plataforma.
 
-* **Gobernanza Restringida:** Desbloquean votaciones exclusivas asociadas al concepto o *radge* del coleccionable.
-* **Reputación y Relación:** Un coleccionable tipo *radge* habilita la obtención de reputación y permite definir formalmente la naturaleza de la relación entre el usuario y dicho *radge*.
+* **Gobernanza Restringida:** Desbloquean votaciones exclusivas asociadas al concepto o *rade* del coleccionable.
+* **Reputación y Relación:** Un coleccionable tipo *rade* habilita la obtención de reputación y permite definir formalmente la naturaleza de la relación entre el usuario y dicho *rade*.
 
 ## Licencias Vitalicias
 
@@ -47,7 +47,7 @@ Las Licencias son pases permanentes. Cuentan con una asignación global de **2 m
 
 ### Tabla Comparativa de Licencias
 
-| Licencia | M      | Unidades Máx. | Qubits / Mes | Rol en discord | Nivel interacciones | Slots Radge         |
+| Licencia | M      | Unidades Máx. | Qubits / Mes | Rol en discord | Nivel interacciones | Slots Rade         |
 | --- |--------| --- | --- | --- | --- |---------------------|
 | **Revelada** | **x7** | 23 | 137 | Si | 1 | 1x Alfa             |
 | **Voluntaria** | **x5** | 257 | 98 | Si | 2 | 1x Beta             |
@@ -66,13 +66,13 @@ Los Qubits otorgan acceso directo al ecosistema comercial y participativo:
 
 
 * **Créditos de Interacción:**
-* **Ram:** 757 Qubits.
-* **Bala:** 373 Qubits. (No se pueden usar en Ram)
-* **Tzira:** 257 Qubits. (No se pueden usar en Ram ni en Bala)
+* **Ra:** 757 Qubits.
+* **Bal:** 373 Qubits. (No se pueden usar en Ra)
+* **Sira:** 257 Qubits. (No se pueden usar en Ra ni en Bal)
 
 
 * **Personalización:**
-* Añadir una de las 23 facetas de equilibrio a un *radge* original: **5.233 Qubits**.
+* Añadir una de las 23 facetas de equilibrio a un *rade* original: **5.233 Qubits**.
 
 
 * **Derechos de Gobernanza:**
@@ -84,7 +84,7 @@ Los Qubits otorgan acceso directo al ecosistema comercial y participativo:
 
 * **Suministro Total:** 25.000.000 Qubits.
 * **Custodia e Infraestructura:** Inicialmente centralizados en [hub.2357.io](https://hub.2357.io) mediante *weLore*. A partir de **2029**, se activará un sistema mixto donde todos los activos podrán descentralizarse.
-* **Inicio de Distribución:** Finales de 2026 con el lanzamiento de Ram.
+* **Inicio de Distribución:** Finales de 2026 con el lanzamiento de Ra.
 
 ### Reglas de Emisión
 

@@ -6,16 +6,16 @@ Para descifrar la arquitectura de este ecosistema, es imprescindible comprender 
 
 ## **La Filosofía Macrocuántica**
 
-En la física cuántica, un *qubit* no se limita a ser un 0 o un 1; existe en una superposición de ambos hasta que es medido. Aplicamos esta misma lógica a la condición humana y a la naturaleza de los **radge**:
+En la física cuántica, un *qubit* no se limita a ser un 0 o un 1; existe en una superposición de ambos hasta que es medido. Aplicamos esta misma lógica a la condición humana y a la naturaleza de los **rade**:
 
 * **La Superposición (La Verdad Interior):** Tu estado puro. Un espacio íntimo, seguro y privado, libre de observadores externos. Aquí reside una estabilidad alcanzada a través de la introspección y tus propios marcos de seguridad. Es un universo personal que se expande o contrae bajo tu absoluto control.
 * **El Estado Determinado (La Observación Social):** Al entrar en contacto con el entorno, la superposición colapsa. La sociedad te "observa" y te exige adoptar una forma concreta. Es aquí donde participas en el **juego del estatus**, adaptándote a las exigencias de cada contexto social.
 
-La solidez de tu universo interior no se demuestra aislándote, sino navegando los entornos sociales sin perder tu eje. Bajo este principio se rigen todos los radge en Entrelazados.
+La solidez de tu universo interior no se demuestra aislándote, sino navegando los entornos sociales sin perder tu eje. Bajo este principio se rigen todos los rade en Entrelazados.
 
 ## **Entornos de Interacción**
 
-En Entrelazados, cada usuario representa un universo independiente, y los **Qubits** son el catalizador que permite la transición de estados entre universos. A través de la tecnología del Hub y la red del Gremio, los radge desarrollan un comportamiento predictivo y orgánico basado en tu historial individual y colectivo.
+En Entrelazados, cada usuario representa un universo independiente, y los **Qubits** son el catalizador que permite la transición de estados entre universos. A través de la tecnología del Hub y la red del Gremio, los rade desarrollan un comportamiento predictivo y orgánico basado en tu historial individual y colectivo.
 
 Podrás interactuar con ellos en cuatro escenarios principales:
 
@@ -26,10 +26,10 @@ Podrás interactuar con ellos en cuatro escenarios principales:
 
 ## **El Sistema de Reputación**
 
-Tu vinculo con cada radge se cuantifica mediante la **Reputación Individual**, una escala que abarca desde **0** (*absoluto desconocimiento*) hasta **2357** (*máxima afinidad*).
+Tu vinculo con cada rade se cuantifica mediante la **Reputación Individual**, una escala que abarca desde **0** (*absoluto desconocimiento*) hasta **2357** (*máxima afinidad*).
 
-* **El Umbral del Recuerdo (23 puntos):** Un radge no registrará verdaderamente tu existencia hasta que alcances los 23 puntos. Por debajo de este umbral, eres invisible para él y no puedes sufrir penalizaciones.
-* **La Memoria Permanente:** Al superar los 23 puntos, tu reputación **nunca volverá a caer por debajo de esa cifra**. En Entrelazados, los radge jamás olvidan a quienes han dejado una huella en su trayectoria.
+* **El Umbral del Recuerdo (23 puntos):** Un rade no registrará verdaderamente tu existencia hasta que alcances los 23 puntos. Por debajo de este umbral, eres invisible para él y no puedes sufrir penalizaciones.
+* **La Memoria Permanente:** Al superar los 23 puntos, tu reputación **nunca volverá a caer por debajo de esa cifra**. En Entrelazados, los rade jamás olvidan a quienes han dejado una huella en su trayectoria.
 
 ### **Dinámica de Puntuación**
 
@@ -49,13 +49,13 @@ Tus acciones moldean de forma directa tu estatus en la red:
 
 ## **Influencia y Poder de Voto**
 
-La reputación refleja afinidad, pero no otorga control por sí sola. Para ejercer una **influencia real** sobre el destino de un radge, debes poseer su **Coleccionable Asociado**.
+La reputación refleja afinidad, pero no otorga control por sí sola. Para ejercer una **influencia real** sobre el destino de un rade, debes poseer su **Coleccionable Asociado**.
 
 Obtener este coleccionable te otorga beneficios inmediatos:
 
 * **Bonificación de estatus:** Recibes automáticamente **+257 puntos de reputación**.
 * **Acceso político:** Desbloqueas las **votaciones restringidas**.
-* **Alineación de postura:** Defines la naturaleza de tu actitud hacia el radge (**Amistosa**, **Neutral** o **Hostil**).
+* **Alineación de postura:** Defines la naturaleza de tu actitud hacia el rade (**Amistosa**, **Neutral** o **Hostil**).
 
 ### **Fórmula del Valor de Voto**
 
@@ -69,7 +69,7 @@ De este modo, el sistema evita que la simple acumulación de riqueza determine e
 
 El nivel de reputación acumulado y la postura que hayas definido transforman activamente el mundo que te rodea:
 
-* **Acciones y rol dirigido:** El radge reaccionará en función de vuestra historia compartida, traduciéndose en alianzas, escepticismo o sabotaje directo.
+* **Acciones y rol dirigido:** El rade reaccionará en función de vuestra historia compartida, traduciéndose en alianzas, escepticismo o sabotaje directo.
 * **Ecosistemas autónomos:** Una afinidad elevada desbloquea tratos preferenciales, precios reducidos y oportunidades únicas. Una postura neutral u hostil desplegará dinámicas de interacción radicalmente distintas.
 * **Licencias de acceso:** El tipo de licencias en tu posesión abrirá puertas a interacciones exclusivas y contratos especiales.
 
