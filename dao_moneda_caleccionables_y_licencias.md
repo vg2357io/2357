@@ -72,7 +72,7 @@ Los Qubits otorgan acceso directo al ecosistema comercial y participativo:
 
 
 * **Personalización:**
-* Añadir una de las 23 facetas de equilibrio a un *rade* original: **5.233 Qubits**.
+* Añadir una de las 34 facetas a un *rade* original: **5.233 Qubits**.
 
 
 * **Derechos de Gobernanza:**
@@ -140,10 +140,10 @@ Se realiza una apertura mensual. Cada usuario puede adquirir un máximo de 3 tic
 
 **Quema de Qubits (*Burn*):**
 * **No distribuidos:** Los Qubits que no hayan sido asignados al cierre de cada mes durante el periodo de 5 años serán quemados de forma permanente.
-* **Ingresos de la tienda:** El gremio quema automáticamente el **30%** de los Qubits gastados por los usuarios en productos y servicios.
+* **Ingresos de la tienda:** El gremio de desarrollo quema automáticamente el **30%** de los Qubits gastados por los usuarios en productos y servicios.
 
 **Sistema de Referidos:**
 * Si un usuario realiza una compra teniendo un referido asignado, el **20%** de los Qubits gastados se transfieren al referente.
 
 **Bloqueo Temporal:**
-* Entre el **50% y el 70%** de los Qubits utilizados en compras dentro de la tienda se mantendrán bloqueados temporalmente, por parte del gremio, hasta la finalización del programa de distribución de 5 años.
+* Entre el **50% y el 70%** de los Qubits utilizados en compras dentro de la tienda se mantendrán bloqueados temporalmente, por parte del gremio de desarrollo, hasta la finalización del programa de distribución de 5 años.
