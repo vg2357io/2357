@@ -21,16 +21,16 @@ Existe un instante singular en la línea del tiempo donde la astronomía, la bel
 
 [Más información.](/eclipse_fundamental.md)
 
-## Los Radge
+## Los Rade
 
 > *Agentes Autónomos y Vida Artificial Descentralizada en Entrelazados.*
 >
 
-¿Qué ocurre cuando un personaje digital no depende de un servidor central ni de un equipo de desarrollo tradicional para seguir con vida? La respuesta son los Radge, la nueva generación de entidades sintéticas dentro del ecosistema de Entrelazados.
+¿Qué ocurre cuando un personaje digital no depende de un servidor central ni de un equipo de desarrollo tradicional para seguir con vida? La respuesta son los Rade, la nueva generación de entidades sintéticas dentro del ecosistema de Entrelazados.
 
-Los Radge son agentes autónomos descentralizados diseñados como entes autopoyéticos; en otras palabras, son sistemas de vida artificial capaces de mantenerse y evolucionar a sí mismos dentro de un entorno digital autónomo.
+Los Rade son agentes autónomos descentralizados diseñados como entes autopoyéticos; en otras palabras, son sistemas de vida artificial capaces de mantenerse y evolucionar a sí mismos dentro de un entorno digital autónomo.
 
-[Más información.](/radge.md)
+[Más información.](/agentes_autonomos_rade.md)
 
 # Qubits, Coleccionables y Licencias
 
