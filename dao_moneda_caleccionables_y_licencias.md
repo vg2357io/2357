@@ -2,13 +2,17 @@
 
 Los **Qubits**, **Coleccionables** y **Licencias** forman la columna vertebral socioeconómica de Entrelazados: un sistema integral diseñado para acelerar el crecimiento del ecosistema, potenciar la difusión comunitaria, premiar la implicación de los usuarios y garantizar una gobernanza justa.
 
+**Independencia financiera total**: Para evitar que corporaciones, estados o fondos de capital riesgo sesguen los objetivos del proyecto, el equipo de desarrollo prohíbe estatutariamente la entrada de financiación institucional. El proyecto se autofinanciará mediante un modelo de licencias vitalicias únicas de 5€ + IVA, donde el progreso dentro de la plataforma se basará en méritos y metas comunitarias, no en la capacidad económica del usuario.
+
+Esta sección abarca términos técnicos relacionados con la descentralización. El equipo de desarrollo, actuando como custodios, pondrá a disposición de la comunidad herramientas con experiencias de usuario sencillas para aquellos que quieran delegar la seguridad de sus activos.
+
 ## Qubits y Gobernanza Anti-Ballenas
 
-Los **Qubits** son la unidad monetaria y de gobernanza dentro de la economía interna de Entrelazados. Se utilizan para adquirir productos y servicios en la tienda, así como para votar en las decisiones clave del ecosistema.
+Los **Qubits** son la unidad monetaria y de gobernanza dentro de la economía interna de Entrelazados. Se utilizan para adquirir productos y servicios en la tienda, así como para votar en las decisiones clave del ecosistema. El equipo de desarrolllo no los vende, solo gestiona su distribución inicial. Al completarse se descentralizará liberando la compra/venta entre usuarios, sin comisiones propietarias.
 
 ### Mecanismo Anti-Ballenas: Curva de Voto Ponderado
 
-Para evitar que usuarios con alta liquidez monopolicen el poder de decisión mediante la compra masiva de Qubits en la venta directa, el ecosistema descarta el modelo lineal de «1 Qubit = 1 Voto». En su lugar, aplica una función de **coste acumulativo basada en números primos**.
+Para evitar que usuarios con alta liquidez monopolicen el poder de decisión mediante la compra masiva de Qubits en la descentralización, el ecosistema descarta el modelo lineal de «1 Qubit = 1 Voto». En su lugar, aplica una función de **coste acumulativo basada en números primos**.
 
 ### La Fórmula de Coste
 
@@ -17,6 +21,8 @@ El coste acumulado de Qubits que un usuario debe abonar para emitir una cantidad
 $$Coste_{Voto_n} = (23 \times p_n) + Coste_{Voto_{n-1}}$$
 
 *Donde $p_n$ es el número primo correspondiente al nivel del voto solicitado ($p_1 = 2, p_2 = 3, p_3 = 5, p_4 = 7, p_5 = 11, \dots$) y $Coste_{Voto_0} = 0$.*
+
+Se prohibe la multicuenta y la comunidad decidirá el mecanismo identitario. Se exploran iniciativas como https://billions.network/
 
 ### Matriz de Esfuerzo de Voto
 
@@ -94,7 +100,7 @@ Los Qubits otorgan acceso directo al ecosistema comercial y participativo:
 ### Reparto General del Supply
 
 * **10M (40%):** Comunidad / Licencias vitalicias de mecenas.
-* **5M (20%):** Venta directa.
+* **5M (20%):** Distribución directa por rade.
 * **4M (16%):** Cupones.
 * **3M (12%):** Equilibrio.
 * **2M (8%):** Embajadores.
@@ -126,9 +132,9 @@ Los Qubits otorgan acceso directo al ecosistema comercial y participativo:
 * **Año 4:** 300 tickets | 0,300 M Qubits *(30 personas/mes)*
 * **Año 5:** 400 tickets | 0,400 M Qubits *(40 personas/mes)*
 
-#### Venta Directa
+#### Distribución directa por rade
 
-Se realiza una apertura mensual. Cada usuario puede adquirir un máximo de 3 tickets por mes a un precio variable. Durante el primer año hay un cupo de 50 tickets/mes.
+Cada usuario puede adquirir un máximo de 3 tickets al mes al interactuar con los rade, son estos los que eligen a quién se los dan. Durante el primer año hay un cupo de 50 tickets/mes.
 
 * **Año 1:** 500 tickets (0,50 M Qubits)
 * **Año 2:** 750 tickets (0,75 M Qubits)
@@ -146,4 +152,4 @@ Se realiza una apertura mensual. Cada usuario puede adquirir un máximo de 3 tic
 * Si un usuario realiza una compra teniendo un referido asignado, el **20%** de los Qubits gastados se transfieren al referente.
 
 **Bloqueo Temporal:**
-* Entre el **50% y el 70%** de los Qubits utilizados en compras dentro de la tienda se mantendrán bloqueados temporalmente, por parte del gremio de desarrollo, hasta la finalización del programa de distribución de 5 años.
+* Entre el **50% y el 70%** de los Qubits utilizados en compras dentro de la tienda se mantendrán bloqueados temporalmente, por parte del equipo de desarrollo, hasta la finalización del programa de distribución de 5 años. Apartir de entonces los Qubits se distribuirán entre los propietarios de las licencias permanentes.

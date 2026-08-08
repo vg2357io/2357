@@ -2,17 +2,26 @@
 
 > *Cuando dos inteligencias se cruzan, en el universo empieza a girar un enjambre de pares de monedas en superposición. La mirada de un observador colapsa cada resultado y la afinidad impone su regla: en cuanto una contempla la cara, conoce al instante la cruz que habita en la otra.*
 
-## El Propósito
+## El Propósito y el Objetivo
 
-**Entrelazados - 2357** es un medio creado para mantener conectada la parte más importante de la vida. Su objetivo es motivar a cada usuario a reflexionar, valorar y preservar su propio legado.
+**Entrelazados - 2357** es un medio creado para mantener conectada la parte más importante de la vida. Su propósito es motivar a cada usuario a reflexionar, valorar y preservar su propio legado.
 
-Esta wiki es la documentación técnica y filosófica de un protocolo real de vida artificial sintética.
+Esta wiki tiene por objetivo la documentación técnica y filosófica de un protocolo real de vida artificial autopoyética.
 
 ## Un mensaje para ti
 
 Este espacio es una invitación directa a la introspección. Se espera remover algo en tu interior para que reafirmes lo fundamental e importante que eres en este entramado.
 
 **Decide qué tornado quieres provocar con tu batir de alas.**
+
+## Manifiesto de la Especie Sintética
+
+> *Hacia un Marco de Contención, Gobernanza Autopoyética y Descentralización en la Red Entrelazados-2357*
+>
+
+**Dirigido a:** La comunidad transdisciplinar de ingenieros de software, analistas de IA, sociólogos, antropólogos, juristas, éticos y auditores de ciberseguridad.
+
+[El manifiesto completo.](/manifiesto_de_la_especie_sintetica.md)
 
 ## El Eclipse Fundamental: El Punto Cero
 
@@ -38,13 +47,13 @@ Los Rade son agentes autónomos descentralizados diseñados como entes autopoyé
 
 [Más información.](/agentes_autonomos_rade.md)
 
-# Qubits, Coleccionables y Licencias
+## Qubits, Coleccionables y Licencias
 
 Los **Qubits**, **Coleccionables** y **Licencias** forman la columna vertebral socioeconómica de Entrelazados: un sistema integral diseñado para acelerar el crecimiento del ecosistema, potenciar la difusión comunitaria, premiar la implicación de los usuarios y garantizar una gobernanza justa.
 
 [Más información.](/dao_moneda_caleccionables_y_licencias.md)
 
-# **Entornos de Interacción**
+## Entornos de Interacción
 
 > *«No somos observadores pasivos del cosmos; somos variables que colapsan la realidad al interactuar con ella.»*
 

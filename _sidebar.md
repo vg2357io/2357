@@ -1,4 +1,5 @@
 * [Inicio](/README.md)
+* [Manifiesto de la especie sintética](/manifiesto_de_la_especie_sintetica.md)
 * [Eclipse Fundamental](/eclipse_fundamental.md)
 * [Agentes autónomos Rade](/agentes_autonomos_rade.md)
 

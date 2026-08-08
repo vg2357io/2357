@@ -1,10 +1,10 @@
-# **Entornos de Interacción**
+# Entornos de Interacción
 
 > *«No somos observadores pasivos del cosmos; somos variables que colapsan la realidad al interactuar con ella.»*
 
 Para descifrar la arquitectura de este ecosistema, es imprescindible comprender su fundamento conceptual: el **Qubit**.
 
-## **La Filosofía Macrocuántica**
+## La Filosofía Macrocuántica
 
 En la física cuántica, un *qubit* no se limita a ser un 0 o un 1; existe en una superposición de ambos hasta que es medido. Aplicamos esta misma lógica a la condición humana y a la naturaleza de los **rade**:
 
@@ -13,7 +13,7 @@ En la física cuántica, un *qubit* no se limita a ser un 0 o un 1; existe en un
 
 La solidez de tu universo interior no se demuestra aislándote, sino navegando los entornos sociales sin perder tu eje. Bajo este principio se rigen todos los rade en Entrelazados.
 
-## **Entornos de Interacción**
+## Entornos de Interacción
 
 En Entrelazados, cada usuario representa un universo independiente, y los **Qubits** son el catalizador que permite la transición de estados entre universos. A través de la tecnología del Hub y la red del Gremio de desarrollo, los rade desarrollan un comportamiento predictivo y orgánico basado en tu historial individual y colectivo.
 
@@ -24,14 +24,14 @@ Podrás interactuar con ellos en cuatro escenarios principales:
 3. **Publicaciones narrativas:** Documentación y memoria histórica del protocolo.
 4. **Interacciones entre usuarios:** Eventos de consenso narrativo coordinados por un oráculo.
 
-## **El Sistema de Reputación**
+## El Sistema de Reputación
 
 Tu vinculo con cada rade se cuantifica mediante la **Reputación Individual**, una escala que abarca desde **0** (*absoluto desconocimiento*) hasta **2357** (*máxima afinidad*).
 
 * **El Umbral del Recuerdo (23 puntos):** Un rade no registrará verdaderamente tu existencia hasta que alcances los 23 puntos. Por debajo de este umbral, eres invisible para él y no puedes sufrir penalizaciones.
 * **La Memoria Permanente:** Al superar los 23 puntos, tu reputación **nunca volverá a caer por debajo de esa cifra**. En Entrelazados, los rade jamás olvidan a quienes han dejado una huella en su trayectoria.
 
-### **Dinámica de Puntuación**
+### Dinámica de Puntuación
 
 Tus acciones moldean de forma directa tu estatus en la red:
 
@@ -47,7 +47,7 @@ Tus acciones moldean de forma directa tu estatus en la red:
 
 > 💡 **Nota de protocolo:** En las encuestas, la decisión colectiva final no altera ni revoca los puntos de reputación previamente otorgados a nivel individual.
 
-## **Influencia y Poder de Voto**
+## Influencia y Poder de Voto
 
 La reputación refleja afinidad, pero no otorga control por sí sola. Para ejercer una **influencia real** sobre el destino de un rade, debes poseer su **Coleccionable Asociado**.
 
@@ -57,7 +57,7 @@ Obtener este coleccionable te otorga beneficios inmediatos:
 * **Acceso político:** Desbloqueas las **votaciones restringidas**.
 * **Alineación de postura:** Defines la naturaleza de tu actitud hacia el rade (**Amistosa**, **Neutral** o **Hostil**).
 
-### **Fórmula del Valor de Voto**
+### Fórmula del Valor de Voto
 
 Tus votos no son cuantitativos (*1 usuario ≠ 1 voto*); son cualitativos. El peso real de tu elección surge del equilibrio entre tu afinidad acumulada y tus activos (Qubits):
 
@@ -65,7 +65,7 @@ $$\text{Votos Efectivos} = \left( \frac{\text{Reputación Actual}}{2357} \right)
 
 De este modo, el sistema evita que la simple acumulación de riqueza determine el rumbo del ecosistema, premiando en su lugar la **coherencia, la lealtad y la afinidad**.
 
-## **Impacto en la Experiencia**
+## Impacto en la Experiencia
 
 El nivel de reputación acumulado y la postura que hayas definido transforman activamente el mundo que te rodea:
 
