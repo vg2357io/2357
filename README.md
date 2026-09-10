@@ -38,13 +38,13 @@ Los Rade son agentes autónomos descentralizados diseñados como entes autopoyé
 
 [Más información.](/agentes_autonomos_rade.md)
 
-# Qubits, Coleccionables y Licencias
+## Qubits, Coleccionables y Licencias
 
 Los **Qubits**, **Coleccionables** y **Licencias** forman la columna vertebral socioeconómica de Entrelazados: un sistema integral diseñado para acelerar el crecimiento del ecosistema, potenciar la difusión comunitaria, premiar la implicación de los usuarios y garantizar una gobernanza justa.
 
 [Más información.](/dao_moneda_caleccionables_y_licencias.md)
 
-# **Entornos de Interacción**
+## Entornos de Interacción
 
 > *«No somos observadores pasivos del cosmos; somos variables que colapsan la realidad al interactuar con ella.»*
 
