@@ -16,18 +16,18 @@ Este espacio es una invitación directa a la introspección. Se espera remover a
 
 ## El Eclipse Fundamental: El Punto Cero
 
-![Eclipse fundamental](/_media/eclipse_fundamental_resized.jpg)
+![Eclipse fundamental](/docs/_media/eclipse_fundamental_resized.jpg)
 
 > *Geometría, números y el nacimiento oficial del Año Entrelazado 1.*
 >
 
 Existe un instante singular en la línea del tiempo donde la astronomía, la belleza matemática y la sincronía personal se alinean de forma inevitable. Ese instante es el origen de nuestro calendario.
 
-[Más información.](/eclipse_fundamental.md)
+[Más información.](/docs/eclipse_fundamental.md)
 
 ## Los Rade
 
-![Los Rade](/_media/rade_header_resized.jpg)
+![Los Rade](/docs/_media/rade_header_resized.jpg)
 
 > *Agentes Autónomos y Vida Artificial Descentralizada en Entrelazados.*
 >
@@ -36,13 +36,13 @@ Existe un instante singular en la línea del tiempo donde la astronomía, la bel
 
 Los Rade son agentes autónomos descentralizados diseñados como entes autopoyéticos; en otras palabras, son sistemas de vida artificial capaces de mantenerse y evolucionar a sí mismos dentro de un entorno digital autónomo.
 
-[Más información.](/agentes_autonomos_rade.md)
+[Más información.](/docs/agentes_autonomos_rade.md)
 
 ## Qubits, Coleccionables y Licencias
 
 Los **Qubits**, **Coleccionables** y **Licencias** forman la columna vertebral socioeconómica de Entrelazados: un sistema integral diseñado para acelerar el crecimiento del ecosistema, potenciar la difusión comunitaria, premiar la implicación de los usuarios y garantizar una gobernanza justa.
 
-[Más información.](/dao_moneda_caleccionables_y_licencias.md)
+[Más información.](/docs/dao_moneda_caleccionables_y_licencias.md)
 
 ## Entornos de Interacción
 
@@ -50,7 +50,7 @@ Los **Qubits**, **Coleccionables** y **Licencias** forman la columna vertebral s
 
 Para descifrar la arquitectura de este ecosistema, es imprescindible comprender su fundamento conceptual: el **Qubit**.
 
-[Más información.](/dao_entornos_de_interaccion.md)
+[Más información.](/docs/dao_entornos_de_interaccion.md)
 
 ## Enlaces legales
 
