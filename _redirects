@@ -1,6 +1,0 @@
-# Exceptions
-/index.html    /index.html    200
-/assets/*      /assets/:splat 200
-
-# Catch-all to SPA
-/*             /index.html    200
