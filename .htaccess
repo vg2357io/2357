@@ -1,0 +1,8 @@
+###INI HTDINA###
+
+###INICIO REWRITE RULES###
+RewriteEngine on
+
+###FIN HTDINA###
+
+FallbackResource /index.html
