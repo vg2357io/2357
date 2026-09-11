@@ -9,17 +9,11 @@ export default {
         }
 
         // 3. Si devolvió 404, significa que es una ruta de tu SPA (ej. /dashboard)
-        // Reescribimos la petición hacia /index.html
+        // Reescribimos hacia / para evitar la redirección de /index.html a /
         const url = new URL(request.url);
-        url.pathname = '/index.html';
+        url.pathname = '/';
 
-        // Pedimos /index.html a los assets de Cloudflare
-        const indexResponse = await env.ASSETS.fetch(new Request(url.toString(), request));
-
-        // Devolvemos el contenido de index.html forzando una respuesta 200 OK
-        return new Response(indexResponse.body, {
-            status: 200,
-            headers: indexResponse.headers
-        });
+        // Cloudflare sirve index.html desde /; conservamos su estado y sus cabeceras
+        return env.ASSETS.fetch(new Request(url.toString(), request));
     }
 };

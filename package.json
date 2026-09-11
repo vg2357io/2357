@@ -1,5 +1,9 @@
 {
   "name": "vg2357io/2357",
   "version": "1.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/worker.test.mjs"
+  },
   "author": "Valentí Gàmez <vg@2357.io> (https://2357.io)"
 }
