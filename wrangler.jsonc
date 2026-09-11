@@ -1,5 +1,9 @@
 {
   "name": "2357",
+  "main": "_worker.js",
   "compatibility_date": "2025-10-28",
-  "assets": { "directory": "." }
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  }
 }
