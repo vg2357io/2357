@@ -1,0 +1,1 @@
+import{r as s,V as c}from"./index-B_KP5MYi.js";function f(){const e=s(!1),r=s(""),a=s("");async function t(n,l=""){if(!e.value){e.value=!0,r.value="",a.value="";try{const u=await n();return a.value=l,u}catch(u){r.value=c(u)}finally{e.value=!1}}}return{busy:e,error:r,success:a,run:t}}export{f as u};
